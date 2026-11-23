@@ -1,0 +1,11 @@
+# Arquivos locais do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Preferências de editores
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.log
+*.tmp
